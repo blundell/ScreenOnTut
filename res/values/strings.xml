@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ScreenOnTutActivity!</string>
+    <string name="app_name">ScreenOnTut</string>
+    <string name="screen_on_xml">This activity uses an XML attribute to keep the screen on</string>
+    <string name="screen_on_flag">This activity uses a Flag in onCreate to keep the screen on</string>
+    <string name="screen_on_wake_lock">This activity uses a Wake Lock to keep the screen on</string>
+
+</resources>
